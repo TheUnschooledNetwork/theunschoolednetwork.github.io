@@ -11,6 +11,5 @@ tags: [vision, unschooled]
   <input type="hidden" name="orderId" value="CustomOrderId" />
   <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
   <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Buy now</button>
   <button type="submit" name="choiceKey" value="20-minute-trial" class="btn btn-primary">Buy now</button>
 </form>
