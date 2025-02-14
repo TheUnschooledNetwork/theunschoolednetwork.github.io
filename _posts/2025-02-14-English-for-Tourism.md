@@ -18,7 +18,8 @@ Enroll for personalized language tutoring. Offering sessions that focus on Engli
   .responsive-iframe-container {
     position: relative;
     width: 100%;
-    padding-top: 130%; /* Adjusts height, 75% works well for mobile */
+    padding-top: 130%;
+    min-height: 600px;
   }
 
   .responsive-iframe-container iframe {
