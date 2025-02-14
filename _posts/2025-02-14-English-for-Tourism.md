@@ -1,5 +1,5 @@
 ---
-title: English for Tourism
+title: English Lessons
 date: 2025-01-14 12:00:00 -500
 categories: [tutoring, bitcoin]
 tags: [vision, unschooled]
