@@ -14,7 +14,7 @@ Enroll for personalized language tutoring. Offering sessions that focus on Engli
 - Academic English
 - Business English
 
-> Please be patient after placing your while we get in contact with you. It may take up to 48 hours.
+> Please be patient after placing your deposit while we get in contact with you. It may take up to 48 hours.
 {: .prompt-info }
 
 <style>
