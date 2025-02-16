@@ -7,7 +7,7 @@ tags: [vision, unschooled]
 
 # Sign up for personalized English tutoring
 
-Enroll for personalized language tutoring from the Unschooled founder, Fionn O'Nymm. Offering sessions that focus on English for different purposes
+Enroll for personalized language tutoring from an experienced/qualified instructor. Choose from any of the following themes:
 
 - Tourism/Hospitality English
 - English for travel
@@ -16,6 +16,8 @@ Enroll for personalized language tutoring from the Unschooled founder, Fionn O'N
 
 > Please be patient after placing your deposit while we get in contact with you. It may take up to 48 hours.
 {: .prompt-info }
+
+If you would like to indicate your English language proficiency level and you are unsure, you can test your skills for free at the [British Council](https://englishonline.britishcouncil.org/free-english-level-test-cefr-2/)
 
 <style>
   .responsive-iframe-container {

@@ -14,9 +14,9 @@ timezone: America/Toronto
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Unschooled Network # the main title
+title: Unschooled # the main title
 
-tagline: Universal P2P Education Powered by Bitcoin # it will display as the subtitle
+tagline: Skills Exchange - Denominated in Bitcoin # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A censorship-resistant education network free from expensive institutional intermediaries. Future-proofing the transfer of knowledge through emergent decentralized technologies.
