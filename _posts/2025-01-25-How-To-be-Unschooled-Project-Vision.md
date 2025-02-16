@@ -1,5 +1,5 @@
 ---
-title: How To be Unschooled--Project Vision
+title: Unschooled--Project Vision
 date: 2025-01-25 12:00:00 -500
 categories: [about]
 tags: [vision, unschooled, howto, theunschooledstandard]
@@ -33,3 +33,6 @@ The static-site home page of Unschooled is designed to be a starting point, a fo
 Additionally, Unschooled also hosts its own instance of a BTC Pay Server, allowing any contributer to run their own store and accept payments--either on-chain or via the Lightning Network.
 
 The goal is to create a global network for peer-to-peer learning, one that allows educators and learners to connect freely, without surrendering their data to blackbox algorithms, advertisers or third parties.
+
+> For inquiries about getting involved, please reach out to Fionn via email at theunschooled@proton.me
+{: .prompt-tip }
