@@ -5,14 +5,6 @@ order: 4
 ---
 
 ---
-title: Unschooled--Project Vision
-date: 2025-01-25 12:00:00 -500
-categories: [about]
-tags: [vision, unschooled, howto, theunschooledstandard]
-pin: true
----
-
----
 ## ![The-Aurora-Borealis](/assets/img/Posts/how-to-be-unschooled.jpg)
 ---
 
