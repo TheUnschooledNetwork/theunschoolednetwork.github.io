@@ -22,7 +22,7 @@ The Unschooled Network is a project dedicated to reclaiming education on the web
 
 Our vision is to become a universal netowork of educators and learners who wish to transact in Bitcoin. Education on the web need _not_ be permission-based, nor should access to a particular country's currency be a barrier. Therefore, Unschooled exclusively supports on-chain bitcoin and lightning payments. Thus, The Unschooled Network is committed to becoming a means for educators to make a living on a bitcoin standard as well as a place for learners worldwide to have access to high-quality educational resources.
 
-While the _value for value_ (V4V) proposition supported by the Nostr protocol enables users to tip their creators for the content they upload, Unschooled seeks to be a dedicated hub for trustworthy educational content, facilitating direct, non-custodial Bitcoin payments on-chain and over Lightning. Unschooled is committed to becoming a global skills marketplace, leveraging the scale and accessibility of the Bitcoin network. At Unschooled, you time and skills are denominated in Bitcoin. 
+While the _value for value_ (V4V) proposition supported by the Nostr protocol enables users to tip their creators for the content they upload, Unschooled seeks to be a dedicated hub for trustworthy educational content, facilitating direct, non-custodial Bitcoin payments on-chain and over Lightning. Unschooled is committed to becoming a global skills marketplace, leveraging the scale and accessibility of the Bitcoin network. At Unschooled, your time and skills are denominated in Bitcoin! 
 
 ### How it works
 
