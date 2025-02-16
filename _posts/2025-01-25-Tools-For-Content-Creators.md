@@ -5,7 +5,7 @@ categories: [resources]
 tags: [resources, streaming, education, blogging, nostr]
 ---
 
-Below is my working-document with recommended resources for hosting your online educational content, with preference for bitcoin-focused companies. 
+Below is my working-version of my recommended resources for hosting your online educational content. This list is not exhaustive and attempts to give preference to bitcoin-focused projects. 
 
 #### Bitcoin/Lightning
 - [Bitcoin-Only.com](https://bitcoin-only.com/store-tools): repository of Bitcoin only educational content
