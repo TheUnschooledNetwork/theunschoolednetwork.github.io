@@ -1,7 +1,7 @@
 ---
 title: Project Vision
 date: 2025-01-25 12:00:00 -500
-categories: [about]
+categories: [Unschooling, Vision]
 tags: [vision, unschooled, howto, theunschooledstandard]
 pin: true
 ---

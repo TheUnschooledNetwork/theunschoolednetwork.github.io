@@ -1,7 +1,7 @@
 ---
 title: Contributing to Unschooled
 date: 2025-01-17 12:00:00 -500
-categories: [unschooling, github pages, jekyll]
+categories: [Unschooling, Guides, Contribute to GitHub Pages Site]
 tags: [unschooled, contributing, how-to]
 pin: true
 toc: true
