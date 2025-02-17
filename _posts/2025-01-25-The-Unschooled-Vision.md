@@ -7,7 +7,9 @@ pin: true
 ---
 
 ---
+
 ## ![The-Aurora-Borealis](/assets/img/Posts/how-to-be-unschooled.jpg)
+
 ---
 
 ### Our Purpose
