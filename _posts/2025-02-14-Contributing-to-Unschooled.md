@@ -7,6 +7,8 @@ pin: true
 toc: true
 ---
  
+ ---
+ 
 This guide will walk you through the process of adding a post to the Unschooled Network using GitHub and Jekyll. 
 
 ### **Guide Overview**  
@@ -20,6 +22,8 @@ By following this guide, you will:
 ---
 
 ## !["the one light in the dark" by Patrick Brosset is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse.](/assets/img/Posts/tungsten.jpg)
+
+---
 
 ### **Prerequisites**  
 Before proceeding, ensure you have the following:  

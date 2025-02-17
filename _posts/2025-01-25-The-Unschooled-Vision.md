@@ -8,7 +8,7 @@ pin: true
 
 ---
 
-## ![The-Aurora-Borealis](/assets/img/Posts/how-to-be-unschooled.jpg)
+## ![The-Aurora-Borealis](/assets/img/Posts/Project-Vision.jpg)
 
 ---
 
