@@ -12,7 +12,7 @@ pin: true
 
 ---
 
-### Our Purpose
+### The Unschooled Vision
 
 Perhaps the greatest accomplishment of the internet today is that it enables learning on a massive scale, orders of magnitude greater than at any other time in history. You are only limited by the content you can find.
 

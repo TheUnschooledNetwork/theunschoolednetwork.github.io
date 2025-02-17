@@ -5,10 +5,10 @@ order: 4
 ---
 
 ---
-## ![The-Aurora-Borealis](/assets/img/Posts/how-to-be-unschooled.jpg)
+## ![The-Aurora-Borealis](/assets/img/Posts/Project-Vision.jpg)
 ---
 
-### Our Purpose
+### The Unschooled Vision
 
 Perhaps the greatest accomplishment of the internet today is that it enables learning on a massive scale, orders of magnitude greater than at any other time in history. You are only limited by the content you can find.
 
@@ -34,3 +34,5 @@ The goal is to create a global network for peer-to-peer learning, one that allow
 
 > For inquiries about getting involved, please reach out to Fionn via email at theunschooled@proton.me
 {: .prompt-tip }
+
+

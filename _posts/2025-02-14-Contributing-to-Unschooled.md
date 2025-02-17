@@ -7,23 +7,22 @@ pin: true
 toc: true
 ---
  
- ---
- 
-This guide will walk you through the process of adding a post to the Unschooled Network using GitHub and Jekyll. 
-
-### **Guide Overview**  
-By following this guide, you will:  
-✅ Set up the necessary tools (Ruby, Jekyll, Git)  
-✅ Clone the website’s repository from GitHub  
-✅ Create a new post using Markdown  
-✅ Preview your post locally on your computer  
-✅ Submit your changes to GitHub using a Pull Request  
-
 ---
 
 ## !["the one light in the dark" by Patrick Brosset is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse.](/assets/img/Posts/tungsten.jpg)
 
 ---
+
+### **Guide Overview**  
+
+This guide will walk you through the process of adding a post to the Unschooled Network using GitHub and Jekyll. 
+
+By following this guide, you will:  
+- Set up the necessary tools (Ruby, Jekyll, Git)  
+- Clone the website’s repository from GitHub  
+- Create a new post using Markdown  
+- Preview your post locally on your computer  
+- Submit your changes to GitHub using a Pull Request  
 
 ### **Prerequisites**  
 Before proceeding, ensure you have the following:  
@@ -32,9 +31,12 @@ Before proceeding, ensure you have the following:
 2. **Git Installed** – You should be comfortable using the command line (Terminal on Mac/Linux, PowerShell on Windows).  
 3. **GitHub Authentication** – Make sure you're logged into your GitHub account and have set up authentication (using HTTPS or SSH). If unsure, follow [GitHub’s setup guide](https://docs.github.com/en/get-started/getting-started-with-git).
 
+---
+
+Now that you you are all set up, let's get started 
 
 ### **Installing dependencies**
-Before getting started, make sure you have the necessary tools installed:  
+First thing's first, make sure you have the necessary tools installed:  
 ```bash
 sudo apt update
 sudo apt install ruby-full build-essential zlib1g-dev git
