@@ -1,7 +1,7 @@
 ---
 title: English Lessons
 date: 2025-01-14 12:00:00 -500
-categories: [Subjects, Languages, English Tutoring]
+categories: [Subjects, Languages]
 tags: [vision, unschooled]
 ---
 

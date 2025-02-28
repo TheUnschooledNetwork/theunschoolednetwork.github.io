@@ -1,7 +1,7 @@
 ---
 title: Useful Content Creation Resources
 date: 2025-02-16 12:00:00 -500
-categories: [Unschooling, Guides, Resources]
+categories: [Unschooling, Guides]
 tags: [resources, streaming, education, blogging, nostr]
 ---
 
