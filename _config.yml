@@ -16,10 +16,10 @@ timezone: America/Toronto
 
 title: Unschooled # the main title
 
-tagline: Skills Exchange - Denominated in Bitcoin # it will display as the subtitle
+tagline: P2P Marketplace of Ideas # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A censorship-resistant education network free from expensive institutional intermediaries. Future-proofing the transfer of knowledge through emergent decentralized technologies.
+ P2P Marketplace of ideas supporting payment on the Bitcoin and Lightning Network.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
