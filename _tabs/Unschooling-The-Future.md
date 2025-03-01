@@ -1,9 +1,7 @@
 ---
-title: Project Vision
-date: 2025-01-25 12:00:00 -500
-categories: [Unschooling, Blog]
-tags: [vision, unschooled, howto, theunschooledstandard]
-pin: true
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 ---
@@ -12,13 +10,11 @@ pin: true
 
 ---
 
-### The Unschooled Vision
-
-Perhaps the greatest accomplishment of the internet today is that it enables learning on a massive scale, orders of magnitude greater than at any other time in history. You are only limited by the content you can find.
+Perhaps the greatest accomplishment of the internet is that it enables learning on a massive scale. Information is now orders of magnitude more accessible than at any other time in history. You are only limited by the content you can find.
 
 Emergent, open-source technologies are facilitating new forms of peer-to-peer transactions. However, peer-to-peer is not the standard at present. Most content resides on centralized servers, meaning its creators are at the mercy of platform proprietors.
 
-### The Unschooled Standard
+### Unschooled Vision
 
 The Unschooled Network is a project dedicated to reclaiming education on the web.
 
