@@ -1,37 +1,85 @@
-# Chirpy Starter
+# The Unschooled Network
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
-
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Welcome to The Unschooled Network! This repository contains the source code for our website, built using Jekyll and the Chirpy theme.
 
 ## Usage
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) for detailed information on how to use the Chirpy theme.
 
 ## Contributing
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+We welcome contributions from the community! To get started, please follow our [Contributing Guide](https://theunschoolednetwork.github.io/posts/2025-02-14-Contributing-to-Unschooled/). This guide will walk you through the process of setting up your environment, creating a new post, and submitting a Pull Request.
+
+### Quick Start
+
+1. **Set up the necessary tools**:
+    ```bash
+    sudo apt update
+    sudo apt install ruby-full build-essential zlib1g-dev git
+    ```
+
+2. **Configure Ruby Gems** (if using Bash):
+    ```bash
+    echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+    source ~/.bashrc
+    ```
+
+3. **Install Jekyll and Bundler**:
+    ```bash
+    gem install jekyll bundler
+    ```
+
+4. **Clone the repository and install dependencies**:
+    ```bash
+    git clone https://github.com/TheUnschooledNetwork/theunschoolednetwork.github.io.git
+    cd theunschoolednetwork.github.io
+    bundle install
+    ```
+
+5. **Create a new branch**:
+    ```bash
+    git checkout -b my-new-post
+    ```
+
+6. **Add a new post**:
+    Navigate to the [_posts](http://_vscodecontentref_/2) directory and create a new Markdown file following the naming convention:
+    ```bash
+    cd _posts
+    nano YYYY-MM-DD-title-of-your-post.md
+    ```
+
+    Use the following front matter template at the top of your file:
+    ```yml
+    ---
+    title: "Your Post Title"
+    date: YYYY-MM-DD HH:MM:SS -500
+    categories: [your-category]
+    tags: [your-tags]
+    ---
+    ```
+
+7. **Preview your changes locally**:
+    ```bash
+    bundle exec jekyll serve
+    ```
+    Open `http://localhost:4000` in your browser to check your changes.
+
+8. **Commit and push your changes**:
+    ```bash
+    git add _posts/YYYY-MM-DD-title-of-your-post.md
+    git commit -m "Draft: Initial version of 'My Post Title'"
+    git push origin my-new-post
+    ```
+
+9. **Submit a Pull Request**:
+    Open a browser and navigate to [TheUnschooledNetwork.github.io](https://github.com/TheUnschooledNetwork/theunschoolednetwork.github.io) repository. Click the "Compare & pull request" button, fill out the PR details, and submit.
+
+For more detailed instructions, please refer to our [Contributing Guide](https://theunschoolednetwork.github.io/posts/2025-02-14-Contributing-to-Unschooled/).
 
 ## License
 
@@ -39,5 +87,4 @@ This work is published under [MIT][mit] License.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
