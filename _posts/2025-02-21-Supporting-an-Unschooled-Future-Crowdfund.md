@@ -31,7 +31,7 @@ These are a few of our short-term goals that your support will help in funding:
 - Promote our vision by creating strong signal in bitcoin adjacent spaces
 - Help organizers plan and execute bitcoin meetups
 
-In the meantime, I invite you to learn more about the project by browsing the [The Unschooled Skills Exchange blog](https://theunschoolednetwork.github.io/). What you will find is a work in progress, but I am happy to report that a single (trusted) service provider has set up a page on the Unschooled  and is taking clients. 
+In the meantime, I invite you to learn more about the project by browsing the [The Unschooled P2P Skills Exchange](https://theunschoolednetwork.github.io/categories/). What you will find is a work in progress, but I am happy to report that a single (trusted) service provider has set up a page on the Unschooled  and is taking clients. 
 
 Lastly, if you are passionate about furthering education around the globe and have some skills to offer, please consider contributing to the project.
 

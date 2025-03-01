@@ -11,7 +11,7 @@ Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wi
 
 ## Contributing
 
-We welcome contributions from the community! To get started, please follow our [Contributing Guide](https://theunschoolednetwork.github.io/posts/2025-02-14-Contributing-to-Unschooled/). This guide will walk you through the process of setting up your environment, creating a new post, and submitting a Pull Request.
+We welcome contributions from the community! For detailed instructions on how to start contributing, please follow our [Contributing Guide](https://theunschoolednetwork.github.io/posts/Contributing-to-Unschooled/). This guide will walk you through the process of setting up your environment, creating a new post, and submitting a Pull Request.
 
 ### Quick Start
 
@@ -79,7 +79,6 @@ We welcome contributions from the community! To get started, please follow our [
 9. **Submit a Pull Request**:
     Open a browser and navigate to [TheUnschooledNetwork.github.io](https://github.com/TheUnschooledNetwork/theunschoolednetwork.github.io) repository. Click the "Compare & pull request" button, fill out the PR details, and submit.
 
-For more detailed instructions, please refer to our [Contributing Guide](https://theunschoolednetwork.github.io/posts/2025-02-14-Contributing-to-Unschooled/).
 
 ## License
 
