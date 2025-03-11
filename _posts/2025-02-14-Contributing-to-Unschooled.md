@@ -5,14 +5,11 @@ categories: [Unschooling, Guides]
 tags: [unschooled, contributing, how-to]
 pin: true
 toc: true
+image:
+  path: /assets/img/Posts/tungsten.jpg 
+  alt: the one light in the dark by Patrick Brosset is licensed under CC BY-NC 2.0.
 ---
  
----
-
-## !["the one light in the dark" by Patrick Brosset is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse.](/assets/img/Posts/tungsten.jpg)
-
----
-
 ### **Guide Overview**  
 
 This guide will walk you through the process of adding a post to the Unschooled Network using GitHub and Jekyll. 

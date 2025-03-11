@@ -4,12 +4,9 @@ date: 2025-02-28 8:00:00 -500
 categories: [Unschooling, Blog]
 tags: [vision, unschooled, howto, theunschooledstandard]
 pin: false
----
-
----
-
-!["HERMES" by Olga Díez (Caliope) is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse.](/assets/img/Posts/HERMES.jpg)
-
+image:
+  path: /assets/img/Posts/HERMES.jpg
+  alt: HERMES by Olga Díez (Caliope) is licensed under CC BY-NC-SA 2.0.
 ---
 
 ## Fulfilling _P2P Electronic Cash_ 

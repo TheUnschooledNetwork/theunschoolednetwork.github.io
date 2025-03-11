@@ -3,8 +3,10 @@ title: Using Lightning.Video to Monetize Video and Streaming Content
 date: 2025-03-09 7:00:00 -500
 categories: [Unschooling, Guides]
 tags: [Bitcoin, Lightning, Guide, Lighting.video]
+image:
+  path: /assets/img/Posts/normie-cucks.jpeg
+  alt: kinky meme of girl being forced to drink milk
 ---
-![normie cucks drinking the milk](/assets/img/Posts/normie-cucks.jpeg){: w="250" }{: .right }
 
 Don't be a slave to social media algorithms like Youtewbe, Criktok or Instflam. Don't waste your time simping for followers and subscribers just so you can have the privilege to monetize your work. Instead, use lightning.video to paywall your content using real peer-to-peer transactions on Lightning.
 

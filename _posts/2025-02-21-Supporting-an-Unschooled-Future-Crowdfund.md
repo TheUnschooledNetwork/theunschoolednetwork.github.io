@@ -5,12 +5,9 @@ categories: [Unschooling, Crowdfunding campaign]
 tags: [unschooled, contributing]
 pin: true
 toc: false
----
-
----
-
-!["Cloister, Glasgow University" by _skynet is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=openverse.](/assets/img/Posts/Glasgow.jpg)
-
+image:
+  path: /assets/img/Posts/Glasgow.jpg
+  alt: Cloister, Glasgow University by _skynet is licensed under CC BY-NC-ND 2.0.
 ---
 
 # ⚡ [DONATE TO OUR CROWDFUND](https://btcpay.theunschooled.net/apps/2eEk6cGXA6Xru2ALmHkQvgcpEJ34/crowdfund) ⚡

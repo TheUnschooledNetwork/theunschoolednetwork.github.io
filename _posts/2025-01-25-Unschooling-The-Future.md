@@ -4,12 +4,9 @@ date: 2025-01-25 12:00:00 -500
 categories: [Unschooling, Blog]
 tags: [vision, unschooled, howto, theunschooledstandard]
 pin: true
----
-
----
-
-## ![The-Aurora-Borealis](/assets/img/Posts/Project-Vision.jpg)
-
+image:
+  path: /assets/img/Posts/Project-Vision.jpg
+  alt: The-Aurora-Borealis
 ---
 
 Perhaps the greatest accomplishment of the internet is that it enables learning on a massive scale. Information is now orders of magnitude more accessible than at any other time in history. You are only limited by the content you can find.
