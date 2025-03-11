@@ -75,7 +75,7 @@ pin: true
                 {
                     title: 'TUBM 1: The Road to Wider Adoption',
                     start: '2025-03-28T19:00:00',
-                    url: '/posts/Virtual-Meetup-Events/#TUBM-1',
+                    url: '/posts/Virtual-Meetup-Events/#tubm-1-the-road-to-wider-adoption',
                     color: 'var(--color-accent)', // Background color
                     textColor: 'var(--color-bg)' // Text color
                 }
@@ -89,7 +89,6 @@ pin: true
 </script>
 <div id='calendar'></div>
 
-<a name="TUBM-1"></a>
 ## TUBM 1: The Road to Wider Adoption
 
 Join the inaugural edition of [TUBM](/posts/The-Unschooled-Bitcoiners-Meetup/)
