@@ -44,5 +44,3 @@ So check the [Upcoming Events](/posts/Virtual-Meetup-Events/) and join us at the
 [^1]: Eric Hughes, "A Cypherpunk's Manifesto" alluded to the cypherpunk vision of using cryptograpy as a tool to enforce privacy rights online. Certainly, crypto (in the sense of cryptography) is relevant to Bitcoin, but the term has gotten co-opted by venture capitalists who are actually the enemies of Bitcoin. The result is that most times we hear the term, it is associated with scammers, grifters, slimy politicians or simply just people want to sell you their product. 
 
 [^2]: Every other application of _blockchain_ or _web 3_ technology is conceptually superfluous, or in other words, a gimmick. There has never been another relevant use-case for the technology than that of storing the world's peer-to-peer digital monetary transactions in a permission-less manner But please, if you can think of one, then have a shot at bidding for the 39% market-cap (that remains to date) comprising what Bitcoin has not already gobbled up of the 'CrYPto market'. (You have been warned.)  
-
-
