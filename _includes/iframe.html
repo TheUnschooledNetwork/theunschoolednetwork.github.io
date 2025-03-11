@@ -1,0 +1,24 @@
+<link href='https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css' rel='stylesheet' />
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: 'dayGridMonth',
+            height: 'auto',
+            eventDisplay: 'block',
+            events: [
+                {
+                    title: 'TUBM-1',
+                    start: '2025-03-28T19:00:00',
+                    url: '#tubm-1-the-road-to-wider-adoption'
+                }
+            ],
+            eventDidMount: function(info) {
+                info.el.setAttribute('title', info.event.title);
+            }
+        });
+        calendar.render();
+    });
+</script>
+<div id='calendar'></div>
