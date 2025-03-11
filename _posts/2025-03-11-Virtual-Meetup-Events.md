@@ -43,6 +43,6 @@ Join the inaugural edition of [TUBM](/posts/The-Unschooled-Bitcoiners-Meetup/)
 - Tutorial walk-through: getting started with Lighting Network
 - Discussion/questions period
 
-#### Date: TBD
-#### Time: TBD
+#### Date: March 28th
+#### Time: 7:00PM - 8:00PM
 #### [Join Now](https://hivetalk.org/join/TheUnschooledBitcoiner)
