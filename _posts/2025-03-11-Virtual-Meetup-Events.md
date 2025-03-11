@@ -8,9 +8,8 @@ pin: true
 
 {% include iframe.html %}
 
-# TUBM 1: The Road to Wider Adoption
-
 <a name="TUBM-1"></a>
+# TUBM 1: The Road to Wider Adoption
 
 Join the inaugural edition of [TUBM](/posts/The-Unschooled-Bitcoiners-Meetup/)
 
@@ -19,7 +18,7 @@ Join the inaugural edition of [TUBM](/posts/The-Unschooled-Bitcoiners-Meetup/)
 - Video Presentation / Discussion
 - Tutorial walk-through: Buying Non-Custodial Bitcoin in Canada
 - Tutorial walk-through: getting started with Lighting Network
-- Discussion/questions period 
+- Discussion/questions period
 
 #### Date: TBD
 #### Time: TBD
