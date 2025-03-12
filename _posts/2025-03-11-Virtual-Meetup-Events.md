@@ -6,7 +6,7 @@ tags: [Bitcoin, Lightning, Meetup]
 pin: true
 ---
 
-{% include calendar.html %}
+{% include iframe.html %}
 
 ## TUBM 1: The Road to Wider Adoption
 
