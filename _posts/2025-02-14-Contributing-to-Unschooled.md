@@ -3,7 +3,7 @@ title: Contributing to Unschooled
 date: 2025-01-17 12:00:00 -500
 categories: [Unschooling, Guides]
 tags: [unschooled, contributing, how-to]
-pin: true
+pin: false
 toc: true
 image:
   path: /assets/img/Posts/tungsten.jpg 

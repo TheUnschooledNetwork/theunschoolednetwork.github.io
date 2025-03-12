@@ -3,7 +3,7 @@ title: SN Post - Determining Home Mining Costs and Profitability (in Fiat terms)
 date: 2025-03-09 7:00:00 -500
 categories: [Unschooling, Mining]
 tags: [Bitcoin, Mining]
-pin: false]
+pin: false
 image:
   path: /assets/img/Posts/pleb miner.jpg
   alt: pleb miner ai generated photo
