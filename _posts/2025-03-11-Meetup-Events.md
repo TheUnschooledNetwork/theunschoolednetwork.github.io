@@ -14,7 +14,8 @@ image:
 - join the inaugural Unschooled Bitcoiner Meetup for coffee, a video presentation and discussions about the sound money revolution.
 
 - Date: April 25th
-- Time and location: TBD
+- Time: 7PM EDT
+- Location: TBD
 - Hybrid delivery method
 
 <a href= "https://btcpay.theunschooled.net/apps/3yScj15BnqDJybRiXTBAUVEHdPcY/pos" target="_blank" style="display: inline-block; padding: 10px 20px; background-color:rgb(251, 255, 0); color: grey; text-decoration: none; border-radius: 5px;">
