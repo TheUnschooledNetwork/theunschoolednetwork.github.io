@@ -9,7 +9,9 @@ image:
   alt: pleb miner ai generated photo
 ---
 
-# ⚡ [View the Original Post on SN](https://stacker.news/items/911262) ⚡  
+<a href= "https://stacker.news/items/911262" target="_blank" style="display: inline-block; padding: 10px 20px; background-color:rgb(251, 255, 0); color: grey; text-decoration: none; border-radius: 5px;">
+    ⚡ READ on SN ⚡
+</a>
 
 <style>
   .responsive-iframe-container {
@@ -30,4 +32,4 @@ image:
 </style>
 
 <div class="responsive-iframe-container">
-<iframe src='https://btcpay.theunschooled.net/apps/3KL9HmXK87t4JuSKEGLqsnBDWUHA/pos' style='max-width: 100%; border: 0;'></iframe>{: .center } 
+<iframe src='https://btcpay.theunschooled.net/apps/3KL9HmXK87t4JuSKEGLqsnBDWUHA/pos' style='max-width: 100%; border: 0;'></iframe>

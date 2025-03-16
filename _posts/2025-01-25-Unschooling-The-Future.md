@@ -3,7 +3,7 @@ title: Unschooling the Future
 date: 2025-01-25 12:00:00 -500
 categories: [Unschooling, Blog]
 tags: [vision, unschooled, howto, theunschooledstandard]
-pin: true
+pin: false
 image:
   path: /assets/img/Posts/Project-Vision.jpg
   alt: The-Aurora-Borealis
